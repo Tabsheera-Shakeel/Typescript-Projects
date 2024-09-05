@@ -7,7 +7,6 @@ This repository contains 11 command-line interface (CLI) projects built using **
 ![TypeScript](https://img.icons8.com/color/48/000000/typescript.png)  
 ![Node.js](https://img.icons8.com/color/48/000000/nodejs.png)  
 ![npm](https://img.icons8.com/color/48/000000/npm.png)  
-![Inquirer.js](https://img.icons8.com/ios-filled/50/000000/question-mark.png)  
 ![Chalk](https://img.icons8.com/ios-filled/50/000000/paint-palette.png)  
 
 ---
